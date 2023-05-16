@@ -15,5 +15,3 @@ require (
 )
 
 go 1.13
-
-replace gotest.tools/gotestsum => /
