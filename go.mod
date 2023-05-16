@@ -16,4 +16,4 @@ require (
 
 go 1.13
 
-replace gotest.tools/gotestsum => github.com/bhiggins85/gotestsum
+replace gotest.tools/gotestsum => github.com/bhiggins85/gotestsum v0.0.0-20230516105342-135d9a217987
